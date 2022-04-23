@@ -5,6 +5,8 @@ import java.util.List;
 
 
 public class Inventory {
+	
+	//restore
 
 	private List<Stock> stocks = new ArrayList<Stock>();
 	private int maxStocks;
